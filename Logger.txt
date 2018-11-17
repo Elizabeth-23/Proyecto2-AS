@@ -1,0 +1,28 @@
+[16-10-2018 07:28:17]:  Creando Movimiento... 
+[16-10-2018 07:28:17]: DEBUG: Se ha ejecutado una operacion... 
+[16-10-2018 07:28:17]:  - Movimiento Existente! -
+[16-10-2018 07:28:17]: DEBUG: Se ha ejecutado una operacion... 
+[16-10-2018 07:28:17]:  - Movimiento Existente! -
+[16-10-2018 07:28:17]: INFO: Se ha ejecutado un metodo en el sistema... 
+[16-10-2018 07:28:17]:  - Movimiento Existente! -
+[16-10-2018 07:28:17]: Metodo Crear Alumno.
+[16-10-2018 07:28:19]:  - Movimiento Existente! -
+[16-10-2018 07:28:19]: INFO: Se ha ejecutado un metodo en el sistema... 
+[16-10-2018 07:28:19]:  - Movimiento Existente! -
+[16-10-2018 07:28:19]: Metodo Listar Alumnos.
+[16-10-2018 07:28:44]:  - Movimiento Existente! -
+[16-10-2018 07:28:44]: ERROR: Ha ocurrido un error en el sistema! 
+[16-10-2018 07:31:33]:  - Movimiento Existente! -
+[16-10-2018 07:31:33]: ERROR: Ha ocurrido un error en el sistema! 
+[16-10-2018 07:31:50]:  - Movimiento Existente! -
+[16-10-2018 07:31:50]: INFO: Se ha ejecutado un metodo en el sistema... 
+[16-10-2018 07:31:50]:  - Movimiento Existente! -
+[16-10-2018 07:31:50]: Metodo Eliminar Alumno.
+[16-10-2018 07:31:57]:  - Movimiento Existente! -
+[16-10-2018 07:31:57]: INFO: Se ha ejecutado un metodo en el sistema... 
+[16-10-2018 07:31:57]:  - Movimiento Existente! -
+[16-10-2018 07:31:57]: Metodo Listar Alumnos.
+[16-10-2018 07:32:04]:  - Movimiento Existente! -
+[16-10-2018 07:32:04]: ERROR: Ha ocurrido un error en el sistema! 
+[16-10-2018 07:32:06]:  - Movimiento Existente! -
+[16-10-2018 07:32:06]: ERROR: Ha ocurrido un error en el sistema! 
